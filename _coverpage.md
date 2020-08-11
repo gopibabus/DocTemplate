@@ -10,7 +10,7 @@
 - ⏱ Slow Down or Speed Up Time
 
 <div class="buttons">
-  <a href="https://github.com/gopibabus/DocTemplate/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/gopibabus/doc-template/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 
